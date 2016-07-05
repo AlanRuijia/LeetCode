@@ -1,0 +1,1 @@
+g++ -o MoveZeros MoveZeros.cpp
