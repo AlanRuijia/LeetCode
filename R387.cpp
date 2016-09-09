@@ -1,4 +1,6 @@
 //Things to remember: ASCII 'a' isn't 1.
+// string.length()
+//string.size()
 #include <string>
 #include <iostream>
 
